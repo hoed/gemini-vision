@@ -37,5 +37,5 @@ Run your project on terminal with streamlit
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+This section has moved here: [https://share.streamlit.io/deploy?repository](https://share.streamlit.io/deploy?repository)
 
