@@ -42,7 +42,7 @@ def main():
     Main function for running the streamlit web application
     """
     # Set the title and logo
-    st.title("Rumahost Vertex AI")
+    st.title("Vertex AI")
     st.image("logo.png", width=100)
 
     # Allow users to upload an image
