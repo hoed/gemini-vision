@@ -25,13 +25,13 @@ Builds the project on your Google Cloud and authenticate your project.
 
 ### `gcloud auth application-default login`
 
-**Note: create your new project on google cloud !**
+**Note: create your new project first on google cloud! with your web browser**
 
 Remember your project ID and put it on your code.
 
 ## Run your project
 
-Run your project on streamlit
+Run your project on terminal with streamlit 
 
 ### streamlit run vertex.py
 
