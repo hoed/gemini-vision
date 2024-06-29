@@ -33,7 +33,7 @@ Remember your project ID and put it on your code.
 
 Run your project on terminal with streamlit 
 
-### streamlit run vertex.py
+### `streamlit run vertex.py`
 
 ### Deployment
 
