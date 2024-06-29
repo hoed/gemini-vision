@@ -27,7 +27,7 @@ def generate_response(prompt, image_file):
     image = image.load_from_file(image_file)
 
     # Initialize the generative model with specific model
-    generative_multimodal_model = GenerativeModel("gemini-10-pro-vision")
+    generative_multimodal_model = GenerativeModel("gemini-1.0-pro-vision")
 
     # Generate content based on the prompt and image
     response = generative_multimodal_model.generate_content([prompt, image])
