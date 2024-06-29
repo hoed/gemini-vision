@@ -5,7 +5,7 @@ import tempfile # for creating temporary files and directories
 import os # for interacting with operating system
 
 
-PROJECT_ID = "vertex-ai-427916" # Your Vertex AI project ID
+PROJECT_ID = "YOUR GOOGLE CLOUD PROJECT" # Your Vertex AI project ID
 REGION = "us-central1" # Region where your Vertex AI resource are located
 
 #initialize Vertex AI SDK
