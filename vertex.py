@@ -43,7 +43,7 @@ def main():
     """
     # Set the title and logo
     st.title("Vertex AI")
-    st.image("logo.png", width=100)
+    st.image("https://1000logos.net/wp-content/uploads/2024/02/Gemini-Logo.png", width=100)
 
     # Allow users to upload an image
     img = st.file_uploader("Upload an image")
