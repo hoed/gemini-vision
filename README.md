@@ -1,3 +1,5 @@
+(https://1000logos.net/wp-content/uploads/2024/02/Gemini-Logo.png)
+
 # Gemini Pro Vision Image Analyzer
 
 This project was created with python [Create Python App](#).
