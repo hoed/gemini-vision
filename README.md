@@ -1,4 +1,4 @@
-(https://1000logos.net/wp-content/uploads/2024/02/Gemini-Logo.png)
+<img src="public/Google_Gemini_logo.svg" width="144"/>
 
 # Gemini Pro Vision Image Analyzer
 
